@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Avocado with Buffalo Mozzarella</string>
+		<key>image</key>
+		<string>avocado-mozz-plate</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Camembert Burger with Pear and Cranberries</string>
+		<key>image</key>
+		<string>burger-plate.png</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chicken Breast with Caponata and Guacamole</string>
+		<key>image</key>
+		<string>chicken-breast-plate</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chicken Curry</string>
+		<key>image</key>
+		<string>chicken-curry-plate</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Herb Schnitzel with Sweet Potato Fries</string>
+		<key>image</key>
+		<string>schnitzel-plate</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mushroom Lasagna</string>
+		<key>image</key>
+		<string>mushroom-lasagna-plate</string>
+		<key>detailsImage</key>
+		<string>burger-nutrition-text</string>
+	</dict>
+</array>
+</plist>
