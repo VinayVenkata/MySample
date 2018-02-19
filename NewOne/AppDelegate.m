@@ -13,6 +13,7 @@
 @end
 
 @implementation AppDelegate
+//vinay
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
